@@ -1,2 +1,2 @@
-# data_baseline
-test for using tickets for data problems
+# BaselineObsLog
+Use for logging instrument, data collection, logger, etc issues at each of the baseline observatories.
